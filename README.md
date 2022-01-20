@@ -22,3 +22,10 @@ https://github.com/ManthanUgemuge/Thing-Big.git
 
 ```
 - Run Directly - https://manthanugemuge.github.io/Thing-Big-Gear-Bulb/
+
+
+## Contributing
+Pull requests are welcome, feel free to ```fork``` this repo.
+
+## License
+This project is open-sourced under the [MIT license]().
