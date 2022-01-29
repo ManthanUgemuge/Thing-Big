@@ -1,5 +1,7 @@
-# Thing-Big-Gear-Bulb
-Start Small Thing Big - Steve Jobs
+# Think Big Gear Bulb
+A Simple Web Animation using CSS concept of Keyframes and ROtation.
+
+"Start Small Thing Big" - Steve Jobs
 
 ## About The Project
 
@@ -21,7 +23,7 @@ A Simple Webite of Gear Bulb with Rotating Gear using Basic Html, CSS & CSS Anim
 https://github.com/ManthanUgemuge/Thing-Big.git
 
 ```
-- Run Directly - https://manthanugemuge.github.io/Thing-Big-Gear-Bulb/
+- Run Directly - https://manthanugemuge.github.io/ThinkBig/
 
 
 ## Contributing
