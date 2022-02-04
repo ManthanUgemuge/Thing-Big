@@ -1,5 +1,5 @@
 # Think Big Gear Bulb
-A Simple Web Animation using CSS concept of Keyframes and Rotation.
+A Simple Web Animation using CSS Concepts of Keyframes and Rotation.
 
 "Start Small Thing Big" - Steve Jobs
 
