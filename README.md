@@ -23,7 +23,7 @@ A Simple Webite of Gear Bulb with Rotating Gear using Basic Html, CSS & CSS Anim
 https://github.com/ManthanUgemuge/ThinkBig.git
 
 ```
-- Run Directly - https://manthanugemuge.github.io/ThinkBig/
+- Run Directly here- [Think Big](https://manthanugemuge.github.io/ThinkBig/)
 
 
 ## Contributing
